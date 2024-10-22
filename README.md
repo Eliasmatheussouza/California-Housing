@@ -1,0 +1,3 @@
+Linear regression model built using Python. I worked with a dataset where I predicted a variable Y based on X (independent variable), creating a regression line to capture the relationship.
+To visualize the results, I used matplotlib to generate a scatter plot of the actual data points and overlay the regression line, which allowed me to assess the fit of the model clearly.
+This dataset contains information from the 1990 U.S. Census regarding housing in California. It includes 20,640 instances (rows) and 8 numeric attributes (columns) that describe the characteristics of the homes in different block groups (small geographical areas).
